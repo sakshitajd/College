@@ -1,2 +1,2 @@
-# Here's information about college
+-Here's information about college
 
